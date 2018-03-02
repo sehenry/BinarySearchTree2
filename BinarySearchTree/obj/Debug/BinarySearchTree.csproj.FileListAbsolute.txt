@@ -1,0 +1,2 @@
+C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
