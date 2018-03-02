@@ -10,6 +10,12 @@ namespace BinarySearchTree
     {
         static void Main(string[] args)
         {
+            LinkedList test = new LinkedList();
+            test.Add(72);
+            test.Add(13);
+            test.Add(2);
+            test.Add(89);
+            test.Add(11);
         }
     }
 }
