@@ -16,6 +16,12 @@ namespace BinarySearchTree
             test.Add(2);
             test.Add(89);
             test.Add(11);
+
+            Console.ReadLine();
+
+            Tree testSearch = new Tree();
+            testSearch.Search(72);
+
             Console.ReadLine();
         }
     }

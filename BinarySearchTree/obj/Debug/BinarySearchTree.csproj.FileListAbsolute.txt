@@ -4,4 +4,3 @@ C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\bin\Debug\Bin
 C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
 C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
 C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
-C:\Users\sarah\Desktop\DevCodeVS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache

@@ -9,6 +9,7 @@ namespace BinarySearchTree
     class Tree
     {
         public Node root;
+        public int count = 0;
 
         public Tree()
         {
@@ -55,15 +56,34 @@ namespace BinarySearchTree
                 }
             } while (!added);
         }
+        public bool Search(int numberToSearch)
+        {         
 
-        public void SearchTree()
-        {
-            int numberToSearch = 0;
-
+            if(numberToSearch == root.value)
+            {
+                return true;
+            }
             if(numberToSearch > root.value)
             {
-                //while()
+                for(int i = 0; i < count; i++)
+                {
+                    if(numberToSearch == root.right.value)
+                    {
+                        return true;
+                    }
+                }
             }
+            if(numberToSearch < root.value)
+            {
+                for(int i = 0; i < count; i++)
+                {
+                    if(numberToSearch == root.left.value)
+                    {
+                        return true;
+                    }
+                }       
+            }
+             return false;
         }
     }
 }
